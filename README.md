@@ -87,7 +87,7 @@
 - [Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator) - Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a Claude AI skill.
 - [ChipAlexandru/strategy-consultant](https://github.com/ChipAlexandru/strategy-consultant) - Strategy consulting plugin for Claude Cowork
 - [DogInfantry/capital-markets-intelligence](https://github.com/DogInfantry/capital-markets-intelligence) - Production-grade capital markets intelligence platform ,IPO event studies, sovereign risk scoring, M&A screening, and yield curve decomposition. Zero API keys required.
-- [DogInfantry/management-consulting-forge](https://github.com/DogInfantry/management-consulting-forge) - Turn Claude into an MBB-grade management consultant. Case-interview coaching, strategy frameworks, market sizing, and board-ready problem-solving. 129 reference modules distilled from consulting knowl
+- [DogInfantry/claude-skill-management-consultant-B1](https://github.com/DogInfantry/claude-skill-management-consultant-B1) - Claude skill & plugin: turn Claude (or any LLM) into an MBB-grade management consultant. Case-interview coaching, strategy frameworks, market sizing, board-ready problem-solving. 129 reference modules
 - [obra/the-elements-of-style](https://github.com/obra/the-elements-of-style) - William Strunk Jr.'s Elements of Style (1918) in markdown format for AI agents
 - [revfactory/harness](https://github.com/revfactory/harness) - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
 - [archlizheng/frontend-slides-editable](https://github.com/archlizheng/frontend-slides-editable) - Editable HTML presentation skill for Codex/Claude Code with drag-resize editing, slide reordering, local save/export, and PPTX-to-web conversion. Shout out to @zarazhangrui
@@ -188,7 +188,7 @@
 - [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
-- [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research
+- [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent.
 - [robonuggets/markitdown-guide](https://github.com/robonuggets/markitdown-guide) - Flatten any folder of office files (docx, xlsx, pptx, pdf) into clean Markdown using Microsoft MarkItDown. Companion guide + demo scripts for the video walkthrough.
 - [keskinonur/claude-code-ios-dev-guide](https://github.com/keskinonur/claude-code-ios-dev-guide) - A comprehensive guide for setting up Claude Code CLI with PRD-driven workflows, extended thinking (ultrathink), and planning modes optimized for Swift/SwiftUI iOS development.
 - [bgauryy/open-docs](https://github.com/bgauryy/open-docs) - This repository contains documentation created to better understand the open project
@@ -246,7 +246,7 @@
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - [workdone0/twig](https://github.com/workdone0/twig) - Terminal-based JSON & YAML viewer (TUI) for exploring and searching large files — fast, interactive, and privacy-first.
-- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
+- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [Kohei-Wada/taskdog](https://github.com/Kohei-Wada/taskdog) - Terminal task manager with intelligent schedule optimization.Keyboard-only. No dragging, no micromanagement.
 - [TechBran/blackbox-poc](https://github.com/TechBran/blackbox-poc) - 
