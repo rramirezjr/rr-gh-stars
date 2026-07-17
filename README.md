@@ -105,6 +105,7 @@
 
 ## JavaScript 
 
+- [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
@@ -303,7 +304,7 @@
 - [Einsia/OpenChronicle](https://github.com/Einsia/OpenChronicle) - 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
-- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI generates a real, editable PowerPoint from any document — native shapes & animations, editable charts & tables you can change the data on, speaker notes voiced as audio narration, and the option to
+- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support
 - [cathrynlavery/repo-atlas](https://github.com/cathrynlavery/repo-atlas) - A Claude Code skill that builds a persistent context system (atlas) for any git repository — directory trees, entrypoints, architecture docs, and agent on-ramp for fast LLM onboarding.
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [Weizhena/Deep-Research-skills](https://github.com/Weizhena/Deep-Research-skills) - Structured deep research skill for Claude Code/Open Code/Codex with human-in-the-loop control
@@ -408,6 +409,7 @@
 
 ## TypeScript 
 
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [cavi-ai/claude-obsidian](https://github.com/cavi-ai/claude-obsidian) - Cowork with Claude inside your Obsidian vault — in-vault chat, gallery-grade HTML artifacts, and a Claude Code plugin, over a local MCP bridge.
 - [anthropics/claude-agent-sdk-demos](https://github.com/anthropics/claude-agent-sdk-demos) - Claude Code SDK Demos
 - [nexu-io/harness-engineering-guide](https://github.com/nexu-io/harness-engineering-guide) - 🔧 The open guide to Harness Engineering — concepts, tutorials, papers, tools, and resources for building and managing AI agent runtimes.
@@ -450,7 +452,7 @@
 - [danielmiessler/Ladder](https://github.com/danielmiessler/Ladder) - A system for autonomous creation and optimization.
 - [danielmiessler/Daemon](https://github.com/danielmiessler/Daemon) - An open-source personal API framework.
 - [danielmiessler/Substrate](https://github.com/danielmiessler/Substrate) - An Open-source Framework for Human Understanding, Meaning, and Progress.
-- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - An General Purpose AI Harness for magnifying human capabilities. [CODING, BUILDING, CREATING, BUSINESS, LIFE, WORK, ...]
+- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - The AI harness that moves you from current state to ideal state. An intent engineering platform: it conveys what you ultimately want to your AI on every task. [CODING, BUILDING, CREATING, BUSINESS, LI
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [pedronauck/devstack](https://github.com/pedronauck/devstack) - Project generator
 - [abhigyanpatwari/worldmonitor](https://github.com/abhigyanpatwari/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
