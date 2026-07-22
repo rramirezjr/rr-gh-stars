@@ -189,9 +189,11 @@
 
 ## agent-skills 
 
+- [MobileReality/mdma](https://github.com/MobileReality/mdma) - Interactive documents from Markdown. Extends MD with forms, approvals, webhooks, and more — built for next gen apps
 - [awesome-skills/design-artifact](https://github.com/awesome-skills/design-artifact) - Build and verify polished interactive HTML artifacts and responsive prototypes.
 - [GreatMark/fable-field-guide-skills](https://github.com/GreatMark/fable-field-guide-skills) - Eight agent skills for finding your unknowns — from Thariq's 'A Field Guide to Fable'. Claude Code plugin + Cursor drop-in.
 - [nexu-io/html-anything](https://github.com/nexu-io/html-anything) - ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed pre
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 - [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) - SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [harness/harness-skills](https://github.com/harness/harness-skills) - A collection of structured AI agent skills that   enable Claude Code, Cursor, GitHub Copilot, and   other AI coding assistants to create, operate,   debug, and govern Harness CI/CD workflows through  
@@ -289,6 +291,8 @@
 
 ## ai-agents 
 
+- [bgreenwell/dotagents](https://github.com/bgreenwell/dotagents) - A proposed standard for the .agents/ directory to prevent context bloat and improve agent reasoning in complex codebases.
+- [MobileReality/mdma](https://github.com/MobileReality/mdma) - Interactive documents from Markdown. Extends MD with forms, approvals, webhooks, and more — built for next gen apps
 - [awesome-skills/design-artifact](https://github.com/awesome-skills/design-artifact) - Build and verify polished interactive HTML artifacts and responsive prototypes.
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
@@ -502,6 +506,7 @@
 
 ## claude-code 
 
+- [bgreenwell/dotagents](https://github.com/bgreenwell/dotagents) - A proposed standard for the .agents/ directory to prevent context bloat and improve agent reasoning in complex codebases.
 - [awesome-skills/design-artifact](https://github.com/awesome-skills/design-artifact) - Build and verify polished interactive HTML artifacts and responsive prototypes.
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
@@ -687,7 +692,7 @@
 
 - [awesome-skills/design-artifact](https://github.com/awesome-skills/design-artifact) - Build and verify polished interactive HTML artifacts and responsive prototypes.
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 - [mindmuxai/brain.md](https://github.com/mindmuxai/brain.md) - A persistent, file-based memory layer for coding agents — give Claude Code, Codex & others a project brain (durable decisions, requirements, constraints) via a zero-dependency CLI.
 - [Ataraxy-Labs/weave](https://github.com/Ataraxy-Labs/weave) - Entity-level git merge driver. Resolves false conflicts git invents when independent agents edit the same file. ~95% reduction vs. line-based merge.
 - [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 28 languages via tree-sitter. Built for coding agents.
@@ -961,6 +966,7 @@
 
 ## llm 
 
+- [MobileReality/mdma](https://github.com/MobileReality/mdma) - Interactive documents from Markdown. Extends MD with forms, approvals, webhooks, and more — built for next gen apps
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [onyx-dot-app/EnterpriseRAG-Bench](https://github.com/onyx-dot-app/EnterpriseRAG-Bench) - Dataset and benchmark for RAG on company internal documents.
@@ -1065,6 +1071,7 @@
 
 ## mcp 
 
+- [MobileReality/mdma](https://github.com/MobileReality/mdma) - Interactive documents from Markdown. Extends MD with forms, approvals, webhooks, and more — built for next gen apps
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [Ataraxy-Labs/weave](https://github.com/Ataraxy-Labs/weave) - Entity-level git merge driver. Resolves false conflicts git invents when independent agents edit the same file. ~95% reduction vs. line-based merge.
 - [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Curated, ranked list of AI agent harnesses (100+) — plus an MCP server, llms.txt & JSON so agents can recommend them too. Rescored weekly.
@@ -1281,7 +1288,7 @@
 - [jsummerfield/dspy](https://github.com/jsummerfield/dspy) - DSPy: The framework for programming—not prompting—language models
 - [withcoral/coral](https://github.com/withcoral/coral) - One SQL interface over APIs, files, and live sources — built for agents.
 - [qewer33/ratscad](https://github.com/qewer33/ratscad) - CAD for the terminal
-- [ChipAlexandru/strategy-consultant](https://github.com/ChipAlexandru/strategy-consultant) - Strategy consulting plugin for Claude Cowork
+- [ChipAlexandru/strategy-consultant](https://github.com/ChipAlexandru/strategy-consultant) - Consulting plugin for Claude Cowork
 - [DogInfantry/capital-markets-intelligence](https://github.com/DogInfantry/capital-markets-intelligence) - Production-grade capital markets intelligence platform ,IPO event studies, sovereign risk scoring, M&A screening, and yield curve decomposition. Zero API keys required.
 - [DogInfantry/hess-chevron-valuation-analysis](https://github.com/DogInfantry/hess-chevron-valuation-analysis) - A full-scale corporate finance and valuation framework of the Chevron-Hess Mega-Deal. Built entirely in Python, showcasing data driven DCF, LBO, and synergy analysis for strategic M&A evaluation.
 - [FUY25/Agent-Skills-for-Context-Engineering](https://github.com/FUY25/Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effe
@@ -1493,6 +1500,7 @@
 
 ## react 
 
+- [MobileReality/mdma](https://github.com/MobileReality/mdma) - Interactive documents from Markdown. Extends MD with forms, approvals, webhooks, and more — built for next gen apps
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) - A framework for building agent-native applications.
@@ -1706,6 +1714,7 @@
 
 ## typescript 
 
+- [MobileReality/mdma](https://github.com/MobileReality/mdma) - Interactive documents from Markdown. Extends MD with forms, approvals, webhooks, and more — built for next gen apps
 - [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 28 languages via tree-sitter. Built for coding agents.
 - [mex-memory/mex](https://github.com/mex-memory/mex) - Persistent project memory for AI coding agents. Structured scaffold + drift detection CLI.
 - [frontier-infra/avl](https://github.com/frontier-infra/avl) - Agent View Layer (AVL): producer-owned text/agent-view companions for AI agents, CMS plugins, and agent-ready web discovery.
