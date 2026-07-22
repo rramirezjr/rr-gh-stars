@@ -30,6 +30,7 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
+- [Vue](#vue)
 
 ## C 
 
@@ -81,13 +82,14 @@
 ## HTML 
 
 - [nexu-io/html-anything](https://github.com/nexu-io/html-anything) - ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed pre
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 - [shanraisshan/claude-code-hooks](https://github.com/shanraisshan/claude-code-hooks) - claude code hooks - adding voice on each hook
 - [shanraisshan/draw-json-architecture-skill](https://github.com/shanraisshan/draw-json-architecture-skill) - A skill that explains any code architecture as an interactive viewer — Graph + JSON + HTML, 100% driven by JSON — and saves the self-contained `.html` to your repo's root `architecture/` folder.
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [evildmp/diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework) - A systematic approach to creating better documentation.
 - [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
 - [Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator) - Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a Claude AI skill.
-- [ChipAlexandru/strategy-consultant](https://github.com/ChipAlexandru/strategy-consultant) - Strategy consulting plugin for Claude Cowork
+- [ChipAlexandru/strategy-consultant](https://github.com/ChipAlexandru/strategy-consultant) - Consulting plugin for Claude Cowork
 - [DogInfantry/capital-markets-intelligence](https://github.com/DogInfantry/capital-markets-intelligence) - Production-grade capital markets intelligence platform ,IPO event studies, sovereign risk scoring, M&A screening, and yield curve decomposition. Zero API keys required.
 - [DogInfantry/claude-skill-management-consultant-B1](https://github.com/DogInfantry/claude-skill-management-consultant-B1) - Claude skill & plugin: turn Claude (or any LLM) into an MBB-grade management consultant. Case-interview coaching, strategy frameworks, market sizing, board-ready problem-solving. 129 reference modules
 - [obra/the-elements-of-style](https://github.com/obra/the-elements-of-style) - William Strunk Jr.'s Elements of Style (1918) in markdown format for AI agents
@@ -111,7 +113,6 @@
 - [ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) - Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [mindmuxai/brain.md](https://github.com/mindmuxai/brain.md) - A persistent, file-based memory layer for coding agents — give Claude Code, Codex & others a project brain (durable decisions, requirements, constraints) via a zero-dependency CLI.
 - [BuilderIO/skills](https://github.com/BuilderIO/skills) - Skills for coding agents
@@ -373,6 +374,7 @@
 
 ## Shell 
 
+- [bgreenwell/dotagents](https://github.com/bgreenwell/dotagents) - A proposed standard for the .agents/ directory to prevent context bloat and improve agent reasoning in complex codebases.
 - [4riel/cc-bible](https://github.com/4riel/cc-bible) - The CC Bible — 202 Claude Code tips from 10 experts. 10 books. 10 commandments. Plus a Claude Code plugin that turns the commandments into installable commands, agents, skills, and hooks.
 - [GreatMark/fable-field-guide-skills](https://github.com/GreatMark/fable-field-guide-skills) - Eight agent skills for finding your unknowns — from Thariq's 'A Field Guide to Fable'. Claude Code plugin + Cursor drop-in.
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
@@ -419,6 +421,7 @@
 
 ## TypeScript 
 
+- [MobileReality/mdma](https://github.com/MobileReality/mdma) - Interactive documents from Markdown. Extends MD with forms, approvals, webhooks, and more — built for next gen apps
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [cavi-ai/claude-obsidian](https://github.com/cavi-ai/claude-obsidian) - Cowork with Claude inside your Obsidian vault — in-vault chat, gallery-grade HTML artifacts, and a Claude Code plugin, over a local MCP bridge.
 - [anthropics/claude-agent-sdk-demos](https://github.com/anthropics/claude-agent-sdk-demos) - Claude Code SDK Demos
@@ -459,7 +462,6 @@
 - [Pimzino/claude-code-spec-workflow](https://github.com/Pimzino/claude-code-spec-workflow) - Automated workflows for Claude Code. Features spec-driven development for new features (Requirements → Design → Tasks → Implementation) and streamlined bug fix workflow for quick issue resolution (Rep
 - [webdevtodayjason/context-forge](https://github.com/webdevtodayjason/context-forge) - CLI tool that scaffolds context engineering documentation for Claude Code projects. Transforms requirements into staged implementation plans, project structures, and workflow rules. From idea to AI-re
 - [danielmiessler/Ladder](https://github.com/danielmiessler/Ladder) - A system for autonomous creation and optimization.
-- [danielmiessler/Daemon](https://github.com/danielmiessler/Daemon) - An open-source personal API framework.
 - [danielmiessler/Substrate](https://github.com/danielmiessler/Substrate) - An Open-source Framework for Human Understanding, Meaning, and Progress.
 - [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - The AI harness that moves you from current state to ideal state. An intent engineering platform: it conveys what you ultimately want to your AI on every task. [CODING, BUILDING, CREATING, BUSINESS, LI
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
@@ -520,6 +522,10 @@
 ## Vim Script 
 
 - [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM
+
+## Vue 
+
+- [danielmiessler/Daemon](https://github.com/danielmiessler/Daemon) - An open-source personal API framework.
 
 
 ## License
