@@ -1282,7 +1282,7 @@
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [zarazhangrui/follow-builders](https://github.com/zarazhangrui/follow-builders) - AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible summaries. Follow builders, not influencers.
-- [TechBran/blackbox-poc](https://github.com/TechBran/blackbox-poc) - 
+- [TechBran/AI-BlackBox-Flight-Recorder-Agent](https://github.com/TechBran/AI-BlackBox-Flight-Recorder-Agent) - 
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [walkinglabs/homepage](https://github.com/walkinglabs/homepage) - Welcome to the WalkingLabs homepage repo!
 - [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
