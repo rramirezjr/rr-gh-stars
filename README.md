@@ -161,7 +161,6 @@
 
 ## Others 
 
-- [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) - Removes 20+ patterns of AI slop from any piece of writing.
 - [YSGStudyHards/Awesome-Tools](https://github.com/YSGStudyHards/Awesome-Tools) - 🛠Awesome Tools，程序员常用高效实用工具、软件资源精选，办公效率提升利器（A Curated Collection of High-Efficiency and Practical Tools and Software Resources for Programmers to Boost Office Productivity）。
 - [bozhouDev/finding-unknowns-skills](https://github.com/bozhouDev/finding-unknowns-skills) - Unknown-discovery guidelines for Claude Code, derived from Thariq's (Anthropic) 'A Field Guide to Fable: Finding Your Unknowns'
 - [robonuggets/html-it](https://github.com/robonuggets/html-it) - HTML output skill for Claude agents — 4 levels (Static Doc / Visual Artifact / Two-Way Interactive / Throwaway Tool). Based on Thariq Shihipar's framework.
@@ -223,6 +222,7 @@
 ## Python 
 
 - [hiendinhngoc/unknowns](https://github.com/hiendinhngoc/unknowns) - Agent skills (SKILL.md) for discovering your unknowns across the dev lifecycle — from Thariq Shihipar's 'Know Your Unknowns'
+- [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) - Removes 20+ patterns of AI slop from any piece of writing.
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - [awesome-skills/design-artifact](https://github.com/awesome-skills/design-artifact) - Build and verify polished interactive HTML artifacts and responsive prototypes.
 - [bradautomates/claude-video](https://github.com/bradautomates/claude-video) - Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
@@ -380,7 +380,7 @@
 ## Shell 
 
 - [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
-- [bgreenwell/dotagents](https://github.com/bgreenwell/dotagents) - A proposed standard for the .agents/ directory to prevent context bloat and improve agent reasoning in complex codebases.
+- [bgreenwell/dotagents](https://github.com/bgreenwell/dotagents) - A proposed convention for the .agents/ directory to prevent context bloat and improve agent reasoning in complex codebases.
 - [4riel/cc-bible](https://github.com/4riel/cc-bible) - The CC Bible — 202 Claude Code tips from 10 experts. 10 books. 10 commandments. Plus a Claude Code plugin that turns the commandments into installable commands, agents, skills, and hooks.
 - [GreatMark/fable-field-guide-skills](https://github.com/GreatMark/fable-field-guide-skills) - Eight agent skills for finding your unknowns — from Thariq's 'A Field Guide to Fable'. Claude Code plugin + Cursor drop-in.
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
