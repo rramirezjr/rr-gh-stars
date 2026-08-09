@@ -235,6 +235,9 @@
 
 ## Python 
 
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
+- [wolfmcnally/agentic-coding-starter](https://github.com/wolfmcnally/agentic-coding-starter) - 
+- [wolfmcnally/llm-usage](https://github.com/wolfmcnally/llm-usage) - 
 - [aldegad/sprite-gen](https://github.com/aldegad/sprite-gen) - Generate clean 2D game sprites & animation atlases — component-row pipeline: state rows, alpha cleanup, frame extraction, runtime atlases. Codex/Claude skill.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
@@ -369,6 +372,10 @@
 
 ## Rust 
 
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
+- [bgreenwell/xleak](https://github.com/bgreenwell/xleak) - A fast terminal Excel viewer with an interactive TUI. Features full-text search, formula display, lazy loading for large files, clipboard support, and export to CSV/JSON. Built with Rust and ratatui.
+- [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
+- [bgreenwell/doxx](https://github.com/bgreenwell/doxx) - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!
 - [exoharness/exo](https://github.com/exoharness/exo) - Exo is an agent + harness architecture that is fully recursive, able to safely edit all aspects of itself at runtime to get better at your tasks.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
@@ -381,7 +388,7 @@
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
 - [Kohei-Wada/ttymap](https://github.com/Kohei-Wada/ttymap) - Mapscii-inspired Terminal-native scriptable globe
 - [zaphar/sheetsui](https://github.com/zaphar/sheetsui) - Sheetui is a console based spreadsheet inspired by sc-im and vim
-- [fulsomenko/kanban](https://github.com/fulsomenko/kanban) - Terminal based project management solution
+- [kanban-rs/kanban](https://github.com/kanban-rs/kanban) - Terminal based project management solution
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
@@ -457,6 +464,8 @@
 
 ## TypeScript 
 
+- [Michaelliv/napkin](https://github.com/Michaelliv/napkin) - 🧻 Knowledge system for agents. Local-first, file-based, progressively disclosed.
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source agent built on local models, with its own inference engine. 100% private and offline
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [EveryInc/tend](https://github.com/EveryInc/tend) - grow what you know
@@ -541,7 +550,7 @@
 - [NousResearch/hermes-paperclip-adapter](https://github.com/NousResearch/hermes-paperclip-adapter) - Paperclip adapter for Hermes Agent — run Hermes as a managed employee in a Paperclip company
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 - [getsentry/XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
-- [bgauryy/octocode](https://github.com/bgauryy/octocode) - Code research platform for AI agents: local + GitHub search, LSP semantics, AST patterns, and compact context. one toolset as MCP or CLI
+- [bgauryy/octocode](https://github.com/bgauryy/octocode) - Code research platform for AI agents; find, understand, and prove context across your code and all of GitHub, in a fraction of the tokens. One toolset, MCP or CLI
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [microsoft/skills](https://github.com/microsoft/skills) - Skills, MCP servers, Custom Agents, Agents.md for SDKs to ground Coding Agents
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
