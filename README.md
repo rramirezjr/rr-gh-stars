@@ -60,6 +60,7 @@
 
 ## Go 
 
+- [boolean-maybe/tiki](https://github.com/boolean-maybe/tiki) - Terminal Markdown-based shapeless workflow builder
 - [agent-ecosystem/skill-validator](https://github.com/agent-ecosystem/skill-validator) - Validate Skill content against Agent Skill specification, with additional content density and quality checks.
 - [maaslalani/calendar](https://github.com/maaslalani/calendar) - Calendar in your terminal
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
@@ -114,6 +115,7 @@
 
 ## JavaScript 
 
+- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [evan-steinhilb/md2hd](https://github.com/evan-steinhilb/md2hd) - Markdown, mapped - the MD2HD CLI. Pull the repo, tell your agent to create an MD2HD map, visually comprehend complex topics and relationships.
 - [pejmanjohn/auteur](https://github.com/pejmanjohn/auteur) - Whisper a design prompt to Claude Design and bring the result back to your coding agent — oracle, but for claude.ai/design.
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
@@ -238,6 +240,7 @@
 
 ## Python 
 
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [SpillwaveSolutions/design-doc-mermaid](https://github.com/SpillwaveSolutions/design-doc-mermaid) - design-doc-mermaid Claude Skill
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [wolfmcnally/agentic-coding-starter](https://github.com/wolfmcnally/agentic-coding-starter) - 
