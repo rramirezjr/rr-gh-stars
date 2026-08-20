@@ -104,7 +104,7 @@
 - [revfactory/harness](https://github.com/revfactory/harness) - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
 - [archlizheng/frontend-slides-editable](https://github.com/archlizheng/frontend-slides-editable) - Editable HTML presentation skill for Codex/Claude Code with drag-resize editing, slide reordering, local save/export, and PPTX-to-web conversion. Shout out to @zarazhangrui
 - [cathrynlavery/spend-optimizer](https://github.com/cathrynlavery/spend-optimizer) - Audit subscriptions and optimize credit card rewards. Claude Code skill.
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 27 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 - [posquit0/hugo-awesome-identity](https://github.com/posquit0/hugo-awesome-identity) - 😤 Awesome Identity is a single-page Hugo theme to introduce yourself.
 - [FixingPixels/claude-obsidian-slides](https://github.com/FixingPixels/claude-obsidian-slides) - Claude skill to generate MARP slide decks in Obsidian — themes, SVG charts, dashboard layouts, and 22 curated examples
