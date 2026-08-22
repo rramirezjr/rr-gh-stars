@@ -222,7 +222,7 @@
 - [harness/harness-skills](https://github.com/harness/harness-skills) - A collection of structured AI agent skills that   enable Claude Code, Cursor, GitHub Copilot, and   other AI coding assistants to create, operate,   debug, and govern Harness CI/CD workflows through  
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) - Generate draw.io diagrams from natural language — 11 presets (UML, SysML/MBSE, BPMN, network, C4…), 36 tools: codebase/CI/infra-to-diagram, image→editable diagram, mind maps, build-up animation, exec-
-- [ZeroPointRepo/awesome-hermes-skills](https://github.com/ZeroPointRepo/awesome-hermes-skills) - Unofficial, community-maintained directory for the Hermes Agent ecosystem (v0.20.2): 82 built-in + 115 optional bundled skills, plus 161 community skills, plugins, agent profiles, memory providers, su
+- [ZeroPointRepo/awesome-hermes-skills](https://github.com/ZeroPointRepo/awesome-hermes-skills) - Hermes Agent skills and plugins: 350+ tools, memory providers, and guides for Nous Research's agent.
 - [wondelai/skills](https://github.com/wondelai/skills) - Wondel.ai Agent Skills — Business, Marketing, UX & Coding Frameworks from Bestselling Books. 50 skills + 12 guided journeys for Claude Code, Codex, Cursor & other agentskills.io agents.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [kevinluosl/deepbot](https://github.com/kevinluosl/deepbot) - DeepBot is a system-level AI assistant built for both personal productivity and enterprise workflows — one-click setup, seamless experience, and native Feishu integration.
@@ -330,6 +330,7 @@
 
 ## ai-agents 
 
+- [cathrynlavery/worklog](https://github.com/cathrynlavery/worklog) - A work journal your coding agents write to. Evidence required.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [Neeeophytee/finding-unknowns-skills](https://github.com/Neeeophytee/finding-unknowns-skills) - 11 installable skills for Claude Code, OpenAI Codex, and Hermes, for finding your unknowns before they get expensive: blindspot pass, brainstorms, interviews, references, plans, notes, pitches, a merg
 - [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) - AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
@@ -353,7 +354,7 @@
 - [frontier-infra/avl](https://github.com/frontier-infra/avl) - Agent View Layer (AVL): producer-owned text/agent-view companions for AI agents, CMS plugins, and agent-ready web discovery.
 - [frontier-infra/the-machine](https://github.com/frontier-infra/the-machine) - The Machine — reference architecture for reliable long-running applied intelligence. The conformance spec + an executable conformance kit. Sibling of AVL, AAR, Conductor, machine-driver.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-- [ZeroPointRepo/awesome-hermes-skills](https://github.com/ZeroPointRepo/awesome-hermes-skills) - Unofficial, community-maintained directory for the Hermes Agent ecosystem (v0.20.2): 82 built-in + 115 optional bundled skills, plus 161 community skills, plugins, agent profiles, memory providers, su
+- [ZeroPointRepo/awesome-hermes-skills](https://github.com/ZeroPointRepo/awesome-hermes-skills) - Hermes Agent skills and plugins: 350+ tools, memory providers, and guides for Nous Research's agent.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [kevinluosl/deepbot](https://github.com/kevinluosl/deepbot) - DeepBot is a system-level AI assistant built for both personal productivity and enterprise workflows — one-click setup, seamless experience, and native Feishu integration.
@@ -442,7 +443,7 @@
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) - A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.
 - [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
-- [ZeroPointRepo/awesome-hermes-skills](https://github.com/ZeroPointRepo/awesome-hermes-skills) - Unofficial, community-maintained directory for the Hermes Agent ecosystem (v0.20.2): 82 built-in + 115 optional bundled skills, plus 161 community skills, plugins, agent profiles, memory providers, su
+- [ZeroPointRepo/awesome-hermes-skills](https://github.com/ZeroPointRepo/awesome-hermes-skills) - Hermes Agent skills and plugins: 350+ tools, memory providers, and guides for Nous Research's agent.
 - [drhus/awesome-identicons](https://github.com/drhus/awesome-identicons) - A curated list of "Visual Hashs" (Identicon, Avatar, Fractal, RandomArt and general Hash Visualization)
 - [ThibautMelen/agentic-ai-systems](https://github.com/ThibautMelen/agentic-ai-systems) - Agentic AI explained with chickens 🐔 every pattern a runnable, CI-checked file.
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
@@ -469,7 +470,7 @@
 - [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) - A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.
 - [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
 - [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Curated, ranked list of AI agent harnesses (100+) — plus an MCP server, llms.txt & JSON so agents can recommend them too. Rescored weekly.
-- [ZeroPointRepo/awesome-hermes-skills](https://github.com/ZeroPointRepo/awesome-hermes-skills) - Unofficial, community-maintained directory for the Hermes Agent ecosystem (v0.20.2): 82 built-in + 115 optional bundled skills, plus 161 community skills, plugins, agent profiles, memory providers, su
+- [ZeroPointRepo/awesome-hermes-skills](https://github.com/ZeroPointRepo/awesome-hermes-skills) - Hermes Agent skills and plugins: 350+ tools, memory providers, and guides for Nous Research's agent.
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
 - [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent.
@@ -572,6 +573,7 @@
 
 ## claude-code 
 
+- [cathrynlavery/worklog](https://github.com/cathrynlavery/worklog) - A work journal your coding agents write to. Evidence required.
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [aldegad/sprite-gen](https://github.com/aldegad/sprite-gen) - Generate clean 2D game sprites & animation atlases — component-row pipeline: state rows, alpha cleanup, frame extraction, runtime atlases. Codex/Claude skill.
 - [oh-my-mermaid/oh-my-mermaid](https://github.com/oh-my-mermaid/oh-my-mermaid) - Turn complex codebases into clear, navigable architecture diagrams with Claude Code.
@@ -805,6 +807,7 @@
 
 ## developer-tools 
 
+- [cathrynlavery/worklog](https://github.com/cathrynlavery/worklog) - A work journal your coding agents write to. Evidence required.
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [oh-my-mermaid/oh-my-mermaid](https://github.com/oh-my-mermaid/oh-my-mermaid) - Turn complex codebases into clear, navigable architecture diagrams with Claude Code.
@@ -1273,7 +1276,7 @@
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
 - [agno-agi/context](https://github.com/agno-agi/context) - A self-hosted context manager. @context organizes your work into a private CRM and knowledge base and helps you stay on top of things.
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
-- [ZeroPointRepo/awesome-hermes-skills](https://github.com/ZeroPointRepo/awesome-hermes-skills) - Unofficial, community-maintained directory for the Hermes Agent ecosystem (v0.20.2): 82 built-in + 115 optional bundled skills, plus 161 community skills, plugins, agent profiles, memory providers, su
+- [ZeroPointRepo/awesome-hermes-skills](https://github.com/ZeroPointRepo/awesome-hermes-skills) - Hermes Agent skills and plugins: 350+ tools, memory providers, and guides for Nous Research's agent.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [kanban-rs/kanban](https://github.com/kanban-rs/kanban) - Terminal based project management solution
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
@@ -1650,6 +1653,7 @@
 
 ## productivity 
 
+- [cathrynlavery/worklog](https://github.com/cathrynlavery/worklog) - A work journal your coding agents write to. Evidence required.
 - [Bahaaio/pomo](https://github.com/Bahaaio/pomo) - Customizable TUI Pomodoro timer with ASCII art, progress bar, desktop notifications, and productivity statistics.
 - [kanban-rs/kanban](https://github.com/kanban-rs/kanban) - Terminal based project management solution
 - [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️ The Life Operating System — an intent engineering platform that moves you from your current state to your ideal state, in life and work.
