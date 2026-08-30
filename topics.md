@@ -1453,6 +1453,7 @@
 
 ## others 
 
+- [ungerts/awesome-bpm](https://github.com/ungerts/awesome-bpm) - A curated list of awesome Business Process Management (BPM) tools, engines, frameworks, resources and other awesomeness.
 - [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Designers and Engineers.
 - [visjs/vis-charts](https://github.com/visjs/vis-charts) - :skull: Plug'n play replacement for the dead almende/vis
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
