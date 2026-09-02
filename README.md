@@ -302,7 +302,7 @@
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
 - [frontier-infra/the-machine](https://github.com/frontier-infra/the-machine) - The Machine — reference architecture for reliable long-running applied intelligence. The conformance spec + an executable conformance kit. Sibling of AVL, AAR, Conductor, machine-driver.
-- [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) - Generate draw.io diagrams from natural language — 11 presets (UML, SysML/MBSE, BPMN, network, C4…), 39 tools: codebase/CI/infra-to-diagram, image→editable diagram, Databricks product icons, mind maps,
+- [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) - From text & real sources to maintainable .drawio architecture models: Diagram IR with source-kind profiles, incremental sync preserving manual layout, multi-view projection, architecture-as-test with 
 - [AMAP-ML/SkillClaw](https://github.com/AMAP-ML/SkillClaw) - Let Skills Evolve Collectively with Agentic Evolver
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [Kohei-Wada/knowledge-gardener](https://github.com/Kohei-Wada/knowledge-gardener) - Format-agnostic knowledge-base curation skill for Claude Code. Decides WHEN to capture/update/link/prune long-term knowledge — defers HOW (format/conventions) to the vault's own README.
@@ -423,7 +423,7 @@
 - [nbari/pgmon](https://github.com/nbari/pgmon) - Real-time PostgreSQL TUI monitoring
 - [ramakay/claude-self-reflect](https://github.com/ramakay/claude-self-reflect) - Claude forgets everything. This fixes that. 🔗 www.npmjs.com/package/claude-self-reflect
 - [abhigyanpatwari/claw-code](https://github.com/abhigyanpatwari/claw-code) - Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things done. Now rewriting in Rust.
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
+- [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [am423/projectsmd](https://github.com/am423/projectsmd) - A single-file project management standard for agent-human collaboration. One markdown file captures everything about a project — from scoping through execution — so agents can pick up exactly where th
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
@@ -490,7 +490,7 @@
 - [SpillwaveSolutions/project-capsule](https://github.com/SpillwaveSolutions/project-capsule) - Pack a named slice of a repo into one markdown or YAML file. Drop it into a Claude / OpenAI / Grok Project, NotebookLM, or a chat window. Harvest or generate examples from a book, article, or tutorial
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [shift-labs-ai/napkin](https://github.com/shift-labs-ai/napkin) - 🧻 Knowledge system for agents. Local-first, file-based, progressively disclosed.
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference server that profiles your hardware, recommends the best models for it, then downloads, tunes, and runs them. Use the built-in harness or connect OpenCode, Pi, Hermes, OpenClaw, C
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference server that profiles your hardware, recommends the best local models for it, then downloads, tunes, and runs them. Use the built-in harness or connect OpenCode, Pi, Hermes, OpenC
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [EveryInc/tend](https://github.com/EveryInc/tend) - grow what you know
