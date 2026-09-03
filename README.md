@@ -490,7 +490,7 @@
 - [SpillwaveSolutions/project-capsule](https://github.com/SpillwaveSolutions/project-capsule) - Pack a named slice of a repo into one markdown or YAML file. Drop it into a Claude / OpenAI / Grok Project, NotebookLM, or a chat window. Harvest or generate examples from a book, article, or tutorial
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [shift-labs-ai/napkin](https://github.com/shift-labs-ai/napkin) - 🧻 Knowledge system for agents. Local-first, file-based, progressively disclosed.
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference server that profiles your hardware, recommends the best local models for it, then downloads, tunes, and runs them. Use the built-in harness or connect OpenCode, Pi, Hermes, OpenC
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cli
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [EveryInc/tend](https://github.com/EveryInc/tend) - grow what you know
