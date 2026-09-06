@@ -528,7 +528,7 @@
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
-- [mex-memory/mex](https://github.com/mex-memory/mex) - Persistent project memory for AI coding agents. Structured scaffold + drift detection CLI.
+- [mex-memory/mex](https://github.com/mex-memory/mex) - Team memory for engineers and their AI agents. Lives in your repo. Shared through Git.
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [ArgentAIOS/argentos-core](https://github.com/ArgentAIOS/argentos-core) - Your own AI operating system. Self-hosted. Self-improving. One continuous, truthful, self-directed mind.
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
