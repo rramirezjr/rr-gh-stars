@@ -139,7 +139,6 @@
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [zarazhangrui/follow-builders](https://github.com/zarazhangrui/follow-builders) - AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible summaries. Follow builders, not influencers.
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
-- [ariaxhan/kernel-claude](https://github.com/ariaxhan/kernel-claude) - Claude Code learns from itself. Persistent memory, multi-agent orchestration, and a scientific experiment engine that proves which rules actually work.
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 - [udecode/dotai](https://github.com/udecode/dotai) - Skills for agents.
 - [tolimarchuk/goalbuddy](https://github.com/tolimarchuk/goalbuddy) - A better /goal for Codex and Claude Code
@@ -321,6 +320,7 @@
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 - [dooit-org/dooit](https://github.com/dooit-org/dooit) - An awesome TUI todo manager
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,115+ agentic skills. Includes CLI, local MCP, catalo
+- [ariaxhan/kernel-claude](https://github.com/ariaxhan/kernel-claude) - Claude Code learns from itself. Persistent memory, multi-agent orchestration, and a scientific experiment engine that proves which rules actually work.
 - [agiresearch/AIOS](https://github.com/agiresearch/AIOS) - AIOS: AI Agent Operating System
 - [HumanSignal/Adala](https://github.com/HumanSignal/Adala) - Adala: Autonomous DAta (Labeling) Agent framework
 - [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Awesome list of 300+ agentic AI resources
@@ -498,7 +498,7 @@
 - [SpillwaveSolutions/project-capsule](https://github.com/SpillwaveSolutions/project-capsule) - Pack a named slice of a repo into one markdown or YAML file. Drop it into a Claude / OpenAI / Grok Project, NotebookLM, or a chat window. Harvest or generate examples from a book, article, or tutorial
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [shift-labs-ai/napkin](https://github.com/shift-labs-ai/napkin) - 🧻 Knowledge system for agents. Local-first, file-based, progressively disclosed.
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference server for the hardware you already have. It profiles your machine, recommends the right models for it, then downloads, tunes, and runs them. Plug it into Pi, OpenCode, Hermes, O
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source local inference engine. It runs models on the hardware you already have, whether that's a Mac, an NVIDIA or AMD GPU, or just a CPU. Plug it into Pi, OpenCode, Hermes, OpenClaw, Codex, Clau
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [EveryInc/tend](https://github.com/EveryInc/tend) - grow what you know
@@ -563,7 +563,7 @@
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [pedronauck/devstack](https://github.com/pedronauck/devstack) - Project generator
 - [abhigyanpatwari/worldmonitor](https://github.com/abhigyanpatwari/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
-- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local)
+- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
