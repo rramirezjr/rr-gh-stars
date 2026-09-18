@@ -113,6 +113,7 @@
 
 ## Java 
 
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [Baidu-AIP/speech-demo](https://github.com/Baidu-AIP/speech-demo) - 语音api示例
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
@@ -501,7 +502,6 @@
 
 - [shadcn-ui/lint](https://github.com/shadcn-ui/lint) - An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [zerostaticthemes/square-ui](https://github.com/zerostaticthemes/square-ui) - Collection of beautifully crafted open-source layouts UI built with shadcn/ui.
 - [swamimalode07/rare-ui](https://github.com/swamimalode07/rare-ui) - A collection of rare, ready-to-use UI components and animations you can actually drop into your next project. Free and open source.
 - [shadcn-labs/pdfcn](https://github.com/shadcn-labs/pdfcn) - Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup.
@@ -509,7 +509,7 @@
 - [SpillwaveSolutions/project-capsule](https://github.com/SpillwaveSolutions/project-capsule) - Pack a named slice of a repo into one markdown or YAML file. Drop it into a Claude / OpenAI / Grok Project, NotebookLM, or a chat window. Harvest or generate examples from a book, article, or tutorial
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [shift-labs-ai/napkin](https://github.com/shift-labs-ai/napkin) - 🧻 Knowledge system for agents. Local-first, file-based, progressively disclosed.
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source local inference engine. It runs models on the hardware you already have, whether that's a Mac, an NVIDIA or AMD GPU, or just a CPU. Plug it into Pi, OpenCode, Hermes, OpenClaw, Codex, Clau
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference engine optimized for consumer hardware. Profiles your machine, recommends the best models for it, then downloads, tunes, and runs them. Works on Apple Silicon, NVIDIA, AMD, or no
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [EveryInc/tend](https://github.com/EveryInc/tend) - grow what you know
