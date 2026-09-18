@@ -1512,7 +1512,7 @@
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 - [agent-ecosystem/skill-validator](https://github.com/agent-ecosystem/skill-validator) - Validate Skill content against Agent Skill specification, with additional content density and quality checks.
 - [shift-labs-ai/napkin](https://github.com/shift-labs-ai/napkin) - 🧻 Knowledge system for agents. Local-first, file-based, progressively disclosed.
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source local inference engine. It runs models on the hardware you already have, whether that's a Mac, an NVIDIA or AMD GPU, or just a CPU. Plug it into Pi, OpenCode, Hermes, OpenClaw, Codex, Clau
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference engine optimized for consumer hardware. Profiles your machine, recommends the best models for it, then downloads, tunes, and runs them. Works on Apple Silicon, NVIDIA, AMD, or no
 - [wolfmcnally/agentic-coding-starter](https://github.com/wolfmcnally/agentic-coding-starter) - 
 - [wolfmcnally/llm-usage](https://github.com/wolfmcnally/llm-usage) - 
 - [pejmanjohn/auteur](https://github.com/pejmanjohn/auteur) - Whisper a design prompt to Claude Design and bring the result back to your coding agent — oracle, but for claude.ai/design.
