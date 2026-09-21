@@ -236,7 +236,7 @@
 - [kevinluosl/deepbot](https://github.com/kevinluosl/deepbot) - DeepBot is a system-level AI assistant built for both personal productivity and enterprise workflows — one-click setup, seamless experience, and native Feishu integration.
 - [aden-hive/hive](https://github.com/aden-hive/hive) - Multi-Agent Harness for Production AI
 - [dotnet/skills](https://github.com/dotnet/skills) - Repository for skills to assist AI coding agents with .NET and C#
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,115+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalo
 - [ThibautMelen/agentic-ai-systems](https://github.com/ThibautMelen/agentic-ai-systems) - Agentic AI explained with chickens 🐔 every pattern a runnable, CI-checked file.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 - [swarmclawai/andrej-karpathy-skills](https://github.com/swarmclawai/andrej-karpathy-skills) - Karpathy-inspired coding-agent guidelines packaged for Claude Code, Codex, Cursor, Gemini, OpenCode, Aider, Copilot, OpenClaw, and any AGENTS.md or Agent Skills-compatible agent.
@@ -377,7 +377,7 @@
 - [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,115+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalo
 - [ariaxhan/kernel-claude](https://github.com/ariaxhan/kernel-claude) - Claude Code learns from itself. Persistent memory, multi-agent orchestration, and a scientific experiment engine that proves which rules actually work.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [ThibautMelen/agentic-ai-systems](https://github.com/ThibautMelen/agentic-ai-systems) - Agentic AI explained with chickens 🐔 every pattern a runnable, CI-checked file.
@@ -632,7 +632,7 @@
 - [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - The Context Layer for unstructured data: typed, versioned datasets over S3, GCS, Azure
 - [jpicklyk/task-orchestrator](https://github.com/jpicklyk/task-orchestrator) - Server-enforced workflow discipline for AI agents. An MCP server providing persistent work items, dependency graphs, quality gates, and actor attribution. Schemas define what agents must produce — the
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,115+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalo
 - [ariaxhan/kernel-claude](https://github.com/ariaxhan/kernel-claude) - Claude Code learns from itself. Persistent memory, multi-agent orchestration, and a scientific experiment engine that proves which rules actually work.
 - [ThibautMelen/agentic-ai-systems](https://github.com/ThibautMelen/agentic-ai-systems) - Agentic AI explained with chickens 🐔 every pattern a runnable, CI-checked file.
 - [DogInfantry/claude-skill-management-consultant-B1](https://github.com/DogInfantry/claude-skill-management-consultant-B1) - Claude skill & plugin: turn Claude (or any LLM) into an MBB-grade management consultant. Case-interview coaching, strategy frameworks, market sizing, board-ready problem-solving. 129 reference modules
@@ -860,7 +860,7 @@
 - [hebbs-ai/boringos](https://github.com/hebbs-ai/boringos) - BoringOS is the open-source operating system for AI agents - it ships with a shell portal plus installable modules, powered by agentic CLIs.
 - [jpicklyk/task-orchestrator](https://github.com/jpicklyk/task-orchestrator) - Server-enforced workflow discipline for AI agents. An MCP server providing persistent work items, dependency graphs, quality gates, and actor attribution. Schemas define what agents must produce — the
 - [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,115+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalo
 - [ariaxhan/kernel-claude](https://github.com/ariaxhan/kernel-claude) - Claude Code learns from itself. Persistent memory, multi-agent orchestration, and a scientific experiment engine that proves which rules actually work.
 - [swarmclawai/andrej-karpathy-skills](https://github.com/swarmclawai/andrej-karpathy-skills) - Karpathy-inspired coding-agent guidelines packaged for Claude Code, Codex, Cursor, Gemini, OpenCode, Aider, Copilot, OpenClaw, and any AGENTS.md or Agent Skills-compatible agent.
 - [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) - Claude Code learns from your corrections: self-correcting memory that compounds over 50+ sessions. Context engineering, parallel worktrees, agent teams, and 17 battle-tested skills.
@@ -1349,7 +1349,7 @@
 - [Kohei-Wada/taskdog](https://github.com/Kohei-Wada/taskdog) - Terminal task manager with intelligent schedule optimization.Keyboard-only. No dragging, no micromanagement.
 - [jpicklyk/task-orchestrator](https://github.com/jpicklyk/task-orchestrator) - Server-enforced workflow discipline for AI agents. An MCP server providing persistent work items, dependency graphs, quality gates, and actor attribution. Schemas define what agents must produce — the
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,115+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalo
 - [ThibautMelen/agentic-ai-systems](https://github.com/ThibautMelen/agentic-ai-systems) - Agentic AI explained with chickens 🐔 every pattern a runnable, CI-checked file.
 - [ramakay/claude-self-reflect](https://github.com/ramakay/claude-self-reflect) - Claude forgets everything. This fixes that. 🔗 www.npmjs.com/package/claude-self-reflect
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
@@ -1521,6 +1521,7 @@
 
 ## others 
 
+- [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A tool to manage versioning and changelogs with a focus on monorepos
 - [NCOR-Organization/awesome-ontologies](https://github.com/NCOR-Organization/awesome-ontologies) - A curated list of ontologies for semantic interoperability, AI systems, knowledge graphs, the semantic web, and digital twins.
 - [ozekik/awesome-ontology](https://github.com/ozekik/awesome-ontology) - A curated list of ontology things
 - [strands-agents/agent-sop](https://github.com/strands-agents/agent-sop) - Natural language workflows that enable AI agents to perform complex, multi-step tasks with consistency and reliability.
