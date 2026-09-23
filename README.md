@@ -328,7 +328,7 @@
 - [Eigenwise/atomic-agents](https://github.com/Eigenwise/atomic-agents) - Building AI agents, atomically
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 - [dooit-org/dooit](https://github.com/dooit-org/dooit) - An awesome TUI todo manager
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,445+ agentic skills. Includes CLI, local MCP, catalo
 - [ariaxhan/kernel-claude](https://github.com/ariaxhan/kernel-claude) - Claude Code learns from itself. Persistent memory, multi-agent orchestration, and a scientific experiment engine that proves which rules actually work.
 - [agiresearch/AIOS](https://github.com/agiresearch/AIOS) - AIOS: AI Agent Operating System
 - [HumanSignal/Adala](https://github.com/HumanSignal/Adala) - Adala: Autonomous DAta (Labeling) Agent framework
@@ -445,7 +445,7 @@
 
 ## SCSS 
 
-- [aaaaalexis/obsidian-baseline](https://github.com/aaaaalexis/obsidian-baseline) - A foundational Obsidian theme ― The baseline of your thoughts.
+- [svnaxis/obsidian-baseline](https://github.com/svnaxis/obsidian-baseline) - A foundational Obsidian theme ― The baseline of your thoughts.
 
 ## SVG 
 
