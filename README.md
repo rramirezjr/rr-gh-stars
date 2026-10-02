@@ -108,7 +108,7 @@
 - [obra/the-elements-of-style](https://github.com/obra/the-elements-of-style) - William Strunk Jr.'s Elements of Style (1918) in markdown format for AI agents
 - [archlizheng/frontend-slides-editable](https://github.com/archlizheng/frontend-slides-editable) - Editable HTML presentation skill for Codex/Claude Code with drag-resize editing, slide reordering, local save/export, and PPTX-to-web conversion. Shout out to @zarazhangrui
 - [cathrynlavery/spend-optimizer](https://github.com/cathrynlavery/spend-optimizer) - Audit subscriptions and optimize credit card rewards. Claude Code skill.
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 - [posquit0/hugo-awesome-identity](https://github.com/posquit0/hugo-awesome-identity) - 😤 Awesome Identity is a single-page Hugo theme to introduce yourself.
 - [FixingPixels/claude-obsidian-slides](https://github.com/FixingPixels/claude-obsidian-slides) - Claude skill to generate MARP slide decks in Obsidian — themes, SVG charts, dashboard layouts, and 22 curated examples
@@ -311,7 +311,7 @@
 - [karpathy/rendergit](https://github.com/karpathy/rendergit) - Render any git repo into a single static HTML page for humans or LLMs
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
-- [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Ranked list of 167 AI agent harnesses, plus copy-paste templates (AGENTS.md, safe Claude Code settings, a minimal harness) and step-by-step playbooks. MCP server, llms.txt & JSON. Rescored weekly.
+- [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Ranked list of 167 AI agent harnesses, plus templates, playbooks, MCP, and learning resources. Rescored weekly.
 - [aiming-lab/AutoHarness](https://github.com/aiming-lab/AutoHarness) - AutoHarness: Automated Harness Engineering for AI Agents
 - [ksimback/looper](https://github.com/ksimback/looper) - Design visual, review-gated agent loops for Claude Code before you run them.
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
@@ -391,7 +391,7 @@
 - [cathrynlavery/codex-skill](https://github.com/cathrynlavery/codex-skill) - Give Claude Code a second opinion using OpenAI Codex - automatic plan review via hooks
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [Weizhena/Deep-Research-skills](https://github.com/Weizhena/Deep-Research-skills) - Structured deep research skill for Claude Code/Open Code/Codex with human-in-the-loop control
-- [stanford-iris-lab/meta-harness](https://github.com/stanford-iris-lab/meta-harness) - Reference code for the Meta-Harness paper.
+- [stanford-iris-lab/meta-harness](https://github.com/stanford-iris-lab/meta-harness) - Official code for Meta-Harness (2603.28052)
 - [stanford-iris-lab/meta-harness-tbench2-artifact](https://github.com/stanford-iris-lab/meta-harness-tbench2-artifact) - Meta-Harness: 76.4% on Terminal-Bench 2.0 (Claude Opus 4.6)
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks from beginner to power user!
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
