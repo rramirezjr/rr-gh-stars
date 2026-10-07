@@ -172,7 +172,7 @@
 
 ## Kotlin 
 
-- [dqev/reicon](https://github.com/dqev/reicon) - Reicon — Open-Source Icon Library for Designers & Developers
+- [dqev/reicon](https://github.com/dqev/reicon) - Reicon - Open-Source Icon Library for Designers & Developers
 - [jpicklyk/task-orchestrator](https://github.com/jpicklyk/task-orchestrator) - Server-enforced workflow discipline for AI agents. An MCP server providing persistent work items, dependency graphs, quality gates, and actor attribution. Schemas define what agents must produce — the
 
 ## MDX 
@@ -360,6 +360,7 @@
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effe
 - [Kastalien-Research/thoughtbox-dot-claude](https://github.com/Kastalien-Research/thoughtbox-dot-claude) - Thoughtbox's standard Claude Code setup.
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [nvk/llm-wiki](https://github.com/nvk/llm-wiki) - LLM-compiled knowledge bases for any AI agent. Parallel multi-agent research, thesis-driven investigation, source ingestion, wiki compilation, querying, and artifact generation.
 - [tdimino/claude-code-minoan](https://github.com/tdimino/claude-code-minoan) - A curated ~/.claude/ configuration for professional development workflows — 90+ skills, 46 hooks, and CLI tools
 - [pedronauck/skills](https://github.com/pedronauck/skills) - My personal favorite skills
@@ -599,7 +600,6 @@
 - [danielmiessler/Ladder](https://github.com/danielmiessler/Ladder) - A system for autonomous creation and optimization.
 - [danielmiessler/Substrate](https://github.com/danielmiessler/Substrate) - An Open-source Framework for Human Understanding, Meaning, and Progress.
 - [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️ LifeOS — The universal AI Harness designed to move you from Current to Ideal state in both life and work.
-- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [pedronauck/devstack](https://github.com/pedronauck/devstack) - Project generator
 - [abhigyanpatwari/worldmonitor](https://github.com/abhigyanpatwari/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine
