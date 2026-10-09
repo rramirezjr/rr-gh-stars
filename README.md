@@ -24,7 +24,6 @@
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
-- [SCSS](#scss)
 - [SVG](#svg)
 - [Shell](#shell)
 - [Svelte](#svelte)
@@ -55,6 +54,7 @@
 ## CSS 
 
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+- [svnaxis/obsidian-baseline](https://github.com/svnaxis/obsidian-baseline) - A foundational Obsidian theme; the baseline of your thoughts.
 - [refactoringhq/portent](https://github.com/refactoringhq/portent) - Open specification for portable knowledge base systems
 - [zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) - A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.
 - [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
@@ -455,17 +455,13 @@
 - [nbari/pgmon](https://github.com/nbari/pgmon) - Real-time PostgreSQL TUI monitoring
 - [ramakay/claude-self-reflect](https://github.com/ramakay/claude-self-reflect) - Claude forgets everything. This fixes that. 🔗 www.npmjs.com/package/claude-self-reflect
 - [abhigyanpatwari/claw-code](https://github.com/abhigyanpatwari/claw-code) - Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things done. Now rewriting in Rust.
-- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
 - [am423/projectsmd](https://github.com/am423/projectsmd) - A single-file project management standard for agent-human collaboration. One markdown file captures everything about a project — from scoping through execution — so agents can pick up exactly where th
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [fastrepl/anarlog](https://github.com/fastrepl/anarlog) - Open source Granola AI Alternative
 - [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [agent-sh/agnix](https://github.com/agent-sh/agnix) - The missing linter and lsp for AI coding assistants. Validate CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP. Plugin for all major IDEs included, with autofixes.
-
-## SCSS 
-
-- [svnaxis/obsidian-baseline](https://github.com/svnaxis/obsidian-baseline) - A foundational Obsidian theme; the baseline of your thoughts.
 
 ## SVG 
 
