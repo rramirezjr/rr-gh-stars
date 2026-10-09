@@ -363,7 +363,7 @@
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
 - [DogInfantry/claude-skill-management-consultant-B1](https://github.com/DogInfantry/claude-skill-management-consultant-B1) - Claude skill & plugin: turn Claude (or any LLM) into an MBB-grade management consultant. Case-interview coaching, strategy frameworks, market sizing, board-ready problem-solving. 129 reference modules
 - [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
-- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
 - [joeynyc/hermes-hud](https://github.com/joeynyc/hermes-hud) - TUI consciousness monitor for Hermes
 - [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) - Desktop Companion for Hermes Agent
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -778,7 +778,7 @@
 - [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound
 - [dooit-org/dooit](https://github.com/dooit-org/dooit) - An awesome TUI todo manager
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
-- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [bgauryy/open-docs](https://github.com/bgauryy/open-docs) - This repository contains documentation created to better understand the open project
@@ -925,7 +925,7 @@
 - [swarmclawai/andrej-karpathy-skills](https://github.com/swarmclawai/andrej-karpathy-skills) - Karpathy-inspired coding-agent guidelines packaged for Claude Code, Codex, Cursor, Gemini, OpenCode, Aider, Copilot, OpenClaw, and any AGENTS.md or Agent Skills-compatible agent.
 - [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) - Claude Code learns from your corrections: self-correcting memory that compounds over 50+ sessions. Context engineering, parallel worktrees, agent teams, and 17 battle-tested skills.
 - [sebastianbreguel/dotfiles](https://github.com/sebastianbreguel/dotfiles) - My complete Mac/dev setup: Homebrew, shell, Claude Code, Python, Node, and more
-- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
 - [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box & user message styling, support AGENTS.md, unlock privat
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [dodo-reach/hermes-desktop](https://github.com/dodo-reach/hermes-desktop) - The safest, simplest way to manage Hermes from your Mac. Pure SSH. No gateways, no exposed ports, no browser layer.
@@ -1434,7 +1434,7 @@
 - [ThibautMelen/agentic-ai-systems](https://github.com/ThibautMelen/agentic-ai-systems) - Agentic AI explained with chickens 🐔 every pattern a runnable, CI-checked file.
 - [ramakay/claude-self-reflect](https://github.com/ramakay/claude-self-reflect) - Claude forgets everything. This fixes that. 🔗 www.npmjs.com/package/claude-self-reflect
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
-- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
@@ -1571,7 +1571,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [tdimino/claude-code-minoan](https://github.com/tdimino/claude-code-minoan) - A curated ~/.claude/ configuration for professional development workflows — 90+ skills, 46 hooks, and CLI tools
-- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
@@ -2031,7 +2031,7 @@
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust
 - [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
-- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [fastrepl/anarlog](https://github.com/fastrepl/anarlog) - Open source Granola AI Alternative
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -2168,7 +2168,7 @@
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
 - [Kohei-Wada/taskdog](https://github.com/Kohei-Wada/taskdog) - Terminal task manager with intelligent schedule optimization.Keyboard-only. No dragging, no micromanagement.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
-- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
 - [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box & user message styling, support AGENTS.md, unlock privat
 - [dodo-reach/hermes-desktop](https://github.com/dodo-reach/hermes-desktop) - The safest, simplest way to manage Hermes from your Mac. Pure SSH. No gateways, no exposed ports, no browser layer.
 - [joeynyc/hermes-hud](https://github.com/joeynyc/hermes-hud) - TUI consciousness monitor for Hermes
@@ -2224,7 +2224,7 @@
 - [Kohei-Wada/taskdog](https://github.com/Kohei-Wada/taskdog) - Terminal task manager with intelligent schedule optimization.Keyboard-only. No dragging, no micromanagement.
 - [dooit-org/dooit](https://github.com/dooit-org/dooit) - An awesome TUI todo manager
 - [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
-- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
 - [joeynyc/hermes-hud](https://github.com/joeynyc/hermes-hud) - TUI consciousness monitor for Hermes
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 - [Astro-Han/diffpane](https://github.com/Astro-Han/diffpane) - Real-time TUI diff viewer for AI coding agents
