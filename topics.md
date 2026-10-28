@@ -164,6 +164,7 @@
 - [self-hosted](#self-hosted)
 - [serverless](#serverless)
 - [shell](#shell)
+- [skills](#skills)
 - [software](#software)
 - [sql](#sql)
 - [sqlite](#sqlite)
@@ -233,6 +234,7 @@
 - [coldteadotai/pr-lens](https://github.com/coldteadotai/pr-lens) - Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull request itself. Use it as a GitHub App, GitHub Action, CLI, or a Skill for your coding
 - [agent-ecosystem/skill-validator](https://github.com/agent-ecosystem/skill-validator) - Validate Skill content against Agent Skill specification, with additional content density and quality checks.
 - [Neeeophytee/finding-unknowns-skills](https://github.com/Neeeophytee/finding-unknowns-skills) - 14 installable skills for Claude Code, OpenAI Codex, and Hermes: find unknowns, clarify requirements, manage context, test assumptions, and verify bug fixes with regression evidence.
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
 - [hiendinhngoc/unknowns](https://github.com/hiendinhngoc/unknowns) - Agent skills (SKILL.md) for discovering your unknowns across the dev lifecycle — from Thariq Shihipar's 'Know Your Unknowns'
@@ -300,7 +302,7 @@
 
 - [intellectronica/ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks
 - [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 - [input-systems/pen](https://github.com/input-systems/pen) - Extendable rich text editor for human and AI Agent collaboration.
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows
@@ -315,6 +317,7 @@
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
 - [evan-steinhilb/md2hd](https://github.com/evan-steinhilb/md2hd) - Markdown, mapped - the MD2HD CLI. Pull the repo, tell your agent to create an MD2HD map, visually comprehend complex topics and relationships.
 - [oh-my-mermaid/oh-my-mermaid](https://github.com/oh-my-mermaid/oh-my-mermaid) - Turn complex codebases into clear, navigable architecture diagrams with Claude Code.
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 - [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) - A collection of projects showcasing RAG, agents, workflows, and other AI use cases
 - [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) - Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated.
 - [oblien/openship](https://github.com/oblien/openship) - Self-hosted deployment platform
@@ -501,7 +504,7 @@
 ## automation 
 
 - [superbasicstudio/claude-conductor](https://github.com/superbasicstudio/claude-conductor) - Claude Conductor - a simple Claude Code framework
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
@@ -896,7 +899,7 @@
 
 ## crawler 
 
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks
 
 ## css 
 
@@ -905,7 +908,7 @@
 
 ## data 
 
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks
 
 ## data-analysis 
 
@@ -939,6 +942,7 @@
 
 - [shadcn-ui/lint](https://github.com/shadcn-ui/lint) - An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.
 - [dqev/reicon](https://github.com/dqev/reicon) - Reicon - Open-Source Icon Library for Designers & Developers
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 
 ## developer-tools 
@@ -1469,7 +1473,7 @@
 
 ## mcp 
 
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows
 - [Amal-David/awesome-jev](https://github.com/Amal-David/awesome-jev) - Jev demos, projects, SDKs and skills, with source links and a curated X gallery.
@@ -1477,7 +1481,7 @@
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
-- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
+- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - ⚡ Project management that doesn't become the project. Boards, Gantt charts, and GitHub integration. Self-host it or use Kaneo Cloud.
 - [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) - A collection of projects showcasing RAG, agents, workflows, and other AI use cases
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.
@@ -1679,7 +1683,6 @@
 
 ## others 
 
-- [enesozturk/dimensional-drawing](https://github.com/enesozturk/dimensional-drawing) - 
 - [wolfmcnally/awesome-ai-agents](https://github.com/wolfmcnally/awesome-ai-agents) - Awesome list of 300+ agentic AI resources
 - [wolfmcnally/awesome-claude-code](https://github.com/wolfmcnally/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 - [wolfmcnally/awesome-AI-driven-development](https://github.com/wolfmcnally/awesome-AI-driven-development) - Awesome list of AI-Driven Development.
@@ -1718,13 +1721,12 @@
 - [SpillwaveSolutions/design-doc-mermaid](https://github.com/SpillwaveSolutions/design-doc-mermaid) - design-doc-mermaid Claude Skill
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 - [shift-labs-ai/napkin](https://github.com/shift-labs-ai/napkin) - 🧻 Knowledge system for agents. Local-first, file-based, progressively disclosed.
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference engine that tunes its kernels on your hardware to find the fastest way to run each model. 2x faster than Ollama. Works on Apple Silicon, NVIDIA, AMD, or just a CPU.
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference engine that tunes its kernels on your hardware to find the fastest way to run each model. 2x faster than Ollama. Works on Apple Silicon, NVIDIA, AMD, Intel, or just a CPU.
 - [wolfmcnally/agentic-coding-starter](https://github.com/wolfmcnally/agentic-coding-starter) - 
 - [wolfmcnally/llm-usage](https://github.com/wolfmcnally/llm-usage) - 
 - [pejmanjohn/auteur](https://github.com/pejmanjohn/auteur) - Whisper a design prompt to Claude Design and bring the result back to your coding agent — oracle, but for claude.ai/design.
 - [EveryInc/tend](https://github.com/EveryInc/tend) - grow what you know
 - [kych0912/saas-starter-ko](https://github.com/kych0912/saas-starter-ko) - Get started quickly with Next.js, Postgres, StepPay, and shadcn/ui.
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [twostraws/Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills) - A curated directory of open-source AI agent skills for Swift and Apple platform development.
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
 - [letta-ai/agent-file](https://github.com/letta-ai/agent-file) - Agent File (.af): An open file format for serializing stateful AI agents with persistent memory and behavior. Share, checkpoint, and version control agents across compatible frameworks.
@@ -1752,7 +1754,6 @@
 - [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) - Official Notion MCP Server
 - [mgechev/skills-best-practices](https://github.com/mgechev/skills-best-practices) - Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.
 - [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - 
-- [BuilderIO/skills](https://github.com/BuilderIO/skills) - Skills for agents
 - [karpathy/rendergit](https://github.com/karpathy/rendergit) - Render any git repo into a single static HTML page for humans or LLMs
 - [nidhinjs/sql-secure-database-project](https://github.com/nidhinjs/sql-secure-database-project) - A SQL Server based secure database project for a consulting company using a layered architecture with raw, core, analytics and security schemas, implementing role-based access control, row-level secur
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
@@ -1765,7 +1766,6 @@
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [refactoringhq/portent](https://github.com/refactoringhq/portent) - Open specification for portable knowledge base systems
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
-- [Kohei-Wada/claude-code](https://github.com/Kohei-Wada/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [Kohei-Wada/knowledge-gardener](https://github.com/Kohei-Wada/knowledge-gardener) - Format-agnostic knowledge-base curation skill for Claude Code. Decides WHEN to capture/update/link/prune long-term knowledge — defers HOW (format/conventions) to the vault's own README.
 - [Kohei-Wada/supernemawashi](https://github.com/Kohei-Wada/supernemawashi) - Navigate workplace dynamics with data. A Claude Code plugin that profiles colleagues using psychological frameworks and generates actionable DO/DON'T communication rules.
 - [zaphar/sheetsui](https://github.com/zaphar/sheetsui) - Sheetui is a console based spreadsheet inspired by sc-im and vim
@@ -1939,7 +1939,7 @@
 
 - [croffasia/itsaplan](https://github.com/croffasia/itsaplan) - ⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.
 - [boolean-maybe/tiki](https://github.com/boolean-maybe/tiki) - Terminal Markdown-based shapeless workflow builder
-- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
+- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - ⚡ Project management that doesn't become the project. Boards, Gantt charts, and GitHub integration. Self-host it or use Kaneo Cloud.
 - [kanban-rs/kanban](https://github.com/kanban-rs/kanban) - Terminal based project management
 - [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management skill system for Agents that uses GitHub Issues and Git worktrees for parallel agent execution.
 - [am423/projectsmd](https://github.com/am423/projectsmd) - A single-file project management standard for agent-human collaboration. One markdown file captures everything about a project — from scoping through execution — so agents can pick up exactly where th
@@ -1972,7 +1972,7 @@
 
 ## python 
 
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [brettkromkamp/contextualise](https://github.com/brettkromkamp/contextualise) - Contextualise is an effective tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
@@ -2060,7 +2060,7 @@
 - [dqev/reicon](https://github.com/dqev/reicon) - Reicon - Open-Source Icon Library for Designers & Developers
 - [shadcn-labs/pdfcn](https://github.com/shadcn-labs/pdfcn) - Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup.
 - [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
-- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
+- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - ⚡ Project management that doesn't become the project. Boards, Gantt charts, and GitHub integration. Self-host it or use Kaneo Cloud.
 - [ixartz/SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) - 🚀🎉📚 SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles & Permissions, i18n, Landing Page, DB, Logging, Testing
 - [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
@@ -2156,7 +2156,7 @@
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
-- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
+- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - ⚡ Project management that doesn't become the project. Boards, Gantt charts, and GitHub integration. Self-host it or use Kaneo Cloud.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
@@ -2176,6 +2176,29 @@
 
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS. (https://gogh-co.githu
+
+## skills 
+
+- [enesozturk/dimensional-drawing](https://github.com/enesozturk/dimensional-drawing) - Create Apple style dimensional drawings of UI components.
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
+- [Neeeophytee/finding-unknowns-skills](https://github.com/Neeeophytee/finding-unknowns-skills) - 14 installable skills for Claude Code, OpenAI Codex, and Hermes: find unknowns, clarify requirements, manage context, test assumptions, and verify bug fixes with regression evidence.
+- [GreatMark/fable-field-guide-skills](https://github.com/GreatMark/fable-field-guide-skills) - Eight agent skills for finding your unknowns — from Thariq's 'A Field Guide to Fable'. Claude Code plugin + Cursor drop-in.
+- [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
+- [BuilderIO/skills](https://github.com/BuilderIO/skills) - Skills for agents
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
+- [zzet/gortex](https://github.com/zzet/gortex) - High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expos
+- [AMAP-ML/SkillClaw](https://github.com/AMAP-ML/SkillClaw) - Let Skills Evolve Collectively with Agentic Evolver
+- [swarmclawai/andrej-karpathy-skills](https://github.com/swarmclawai/andrej-karpathy-skills) - Karpathy-inspired coding-agent guidelines packaged for Claude Code, Codex, Cursor, Gemini, OpenCode, Aider, Copilot, OpenClaw, and any AGENTS.md or Agent Skills-compatible agent.
+- [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) - The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills, 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, an
+- [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent.
+- [microsoft/skills](https://github.com/microsoft/skills) - Skills, MCP servers, Custom Agents, Agents.md for SDKs to ground Coding Agents
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
+- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [agent-sh/agentsys](https://github.com/agent-sh/agentsys) - AI writes code. This automates everything else · 24 plugins · 49 agents · 44 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+- [agent-sh/agnix](https://github.com/agent-sh/agnix) - The missing linter and lsp for AI coding assistants. Validate CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP. Plugin for all major IDEs included, with autofixes.
+- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Gemini Notebook's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agen
 
 ## software 
 
@@ -2344,7 +2367,7 @@
 - [shadcn-labs/pdfcn](https://github.com/shadcn-labs/pdfcn) - Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup.
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
-- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
+- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - ⚡ Project management that doesn't become the project. Boards, Gantt charts, and GitHub integration. Self-host it or use Kaneo Cloud.
 - [ixartz/SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) - 🚀🎉📚 SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles & Permissions, i18n, Landing Page, DB, Logging, Testing
 - [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
@@ -2371,6 +2394,7 @@
 
 ## ui 
 
+- [enesozturk/dimensional-drawing](https://github.com/enesozturk/dimensional-drawing) - Create Apple style dimensional drawings of UI components.
 - [dqev/reicon](https://github.com/dqev/reicon) - Reicon - Open-Source Icon Library for Designers & Developers
 
 ## ui-design 
