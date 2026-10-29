@@ -200,6 +200,7 @@
 
 ## Others 
 
+- [index-how/vocabulary](https://github.com/index-how/vocabulary) - index.how/to/articulate
 - [wolfmcnally/awesome-AI-driven-development](https://github.com/wolfmcnally/awesome-AI-driven-development) - Awesome list of AI-Driven Development.
 - [shannonbay/setup-structure-index](https://github.com/shannonbay/setup-structure-index) - A claude skill to set up a lightweight system for maintaining a living structural index of your codebase as yaml files.  Claude reads these before exploring code (saving exploration rounds) and update
 - [npwitk/Macintosh-Skeletal-Filled](https://github.com/npwitk/Macintosh-Skeletal-Filled) - helllllllllloooo font! Turns out it's called Macintosh Skeleton
@@ -278,6 +279,9 @@
 
 ## Python 
 
+- [ashishpatel26/best-of-Agent-Harnesses](https://github.com/ashishpatel26/best-of-Agent-Harnesses) - 🏆 Ranked list of 167 AI agent harnesses, plus copy-paste templates (AGENTS.md, safe Claude Code settings, a minimal harness) and step-by-step playbooks. MCP server, llms.txt & JSON. Rescored weekly.
+- [ashishpatel26/Enterprise-Agent-Harness-Project-Template](https://github.com/ashishpatel26/Enterprise-Agent-Harness-Project-Template) - Production-grade template for AI agent harnesses: ReAct loop, sandboxed tools, policy & human approval, memory, multi-agent, observability, evals. Agent = Model + Harness.
+- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
 - [makerspet/oomwoo](https://github.com/makerspet/oomwoo) - Open-source vacuum robot cleaner
 - [wolfmcnally/awesome-ai-agents](https://github.com/wolfmcnally/awesome-ai-agents) - Awesome list of 300+ agentic AI resources
 - [wolfmcnally/awesome-claude-code](https://github.com/wolfmcnally/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
@@ -532,6 +536,8 @@
 
 ## TypeScript 
 
+- [Nutlope/bygga](https://github.com/Nutlope/bygga) - IKEA assembly, step by step: animated, manual-style 3D guides. Scan any paper manual with Together AI.
+- [radix-ui/colors](https://github.com/radix-ui/colors) - A gorgeous, accessible color system.
 - [croffasia/itsaplan](https://github.com/croffasia/itsaplan) - ⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.
 - [intellectronica/ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents
 - [egmalt/house-planner](https://github.com/egmalt/house-planner) - Self-hosted house planner: true-scale 2D floor plan, 3D, satellite map overlay, sewer, electrical, water and underfloor heating with calculations, priced bill of materials. React + PHP, no database. B
@@ -556,7 +562,7 @@
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A tool to manage versioning and changelogs with a focus on monorepos
 - [azat-io/eslint-plugin-perfectionist](https://github.com/azat-io/eslint-plugin-perfectionist) - ☂️ ESLint plugin for sorting various data such as objects, imports, types, enums, JSX props, etc.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [meta/docusaurus](https://github.com/meta/docusaurus) - Easy to maintain open source documentation websites.
 - [shadcn-ui/lint](https://github.com/shadcn-ui/lint) - An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
