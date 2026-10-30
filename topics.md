@@ -14,6 +14,7 @@
 - [ai-agents](#ai-agents)
 - [android](#android)
 - [angular](#angular)
+- [animation](#animation)
 - [api](#api)
 - [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
@@ -255,7 +256,7 @@
 - [kevinluosl/deepbot](https://github.com/kevinluosl/deepbot) - DeepBot is a system-level AI assistant built for both personal productivity and enterprise workflows — one-click setup, seamless experience, and native Feishu integration.
 - [aden-hive/hive](https://github.com/aden-hive/hive) - Multi-Agent Harness for Production AI
 - [dotnet/skills](https://github.com/dotnet/skills) - Repository for skills to assist AI coding agents with .NET and C#
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,750+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,877+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [ThibautMelen/agentic-ai-systems](https://github.com/ThibautMelen/agentic-ai-systems) - Agentic AI explained with chickens 🐔 every pattern a runnable, CI-checked file.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 - [swarmclawai/andrej-karpathy-skills](https://github.com/swarmclawai/andrej-karpathy-skills) - Karpathy-inspired coding-agent guidelines packaged for Claude Code, Codex, Cursor, Gemini, OpenCode, Aider, Copilot, OpenClaw, and any AGENTS.md or Agent Skills-compatible agent.
@@ -442,7 +443,7 @@
 - [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,750+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,877+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [ariaxhan/kernel-claude](https://github.com/ariaxhan/kernel-claude) - Claude Code learns from itself. Persistent memory, multi-agent orchestration, and a scientific experiment engine that proves which rules actually work.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [ThibautMelen/agentic-ai-systems](https://github.com/ThibautMelen/agentic-ai-systems) - Agentic AI explained with chickens 🐔 every pattern a runnable, CI-checked file.
@@ -479,6 +480,10 @@
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [db-ux-design-system/core-web](https://github.com/db-ux-design-system/core-web) - DB UX Design System monorepo - Provides Design Tokens and components for Web UIs
 
+## animation 
+
+- [lucasmarkes/hairline](https://github.com/lucasmarkes/hairline) - Isometric line figures that answer the pointer. For React and for anything with a DOM.
+
 ## api 
 
 - [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
@@ -492,7 +497,6 @@
 ## artificial-intelligence 
 
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
-- [Anil-matcha/open-spaces](https://github.com/Anil-matcha/open-spaces) - Free, open-source alternative to ChatGPT Spaces: a self-hostable AI workspace for shared pages and conversations.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
@@ -727,7 +731,7 @@
 - [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - The Context Layer for unstructured data: typed, versioned datasets over S3, GCS, Azure
 - [jpicklyk/task-orchestrator](https://github.com/jpicklyk/task-orchestrator) - Server-enforced workflow discipline for AI agents. An MCP server providing persistent work items, dependency graphs, quality gates, and actor attribution. Schemas define what agents must produce — the
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,750+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,877+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [ariaxhan/kernel-claude](https://github.com/ariaxhan/kernel-claude) - Claude Code learns from itself. Persistent memory, multi-agent orchestration, and a scientific experiment engine that proves which rules actually work.
 - [ThibautMelen/agentic-ai-systems](https://github.com/ThibautMelen/agentic-ai-systems) - Agentic AI explained with chickens 🐔 every pattern a runnable, CI-checked file.
 - [DogInfantry/claude-skill-management-consultant-B1](https://github.com/DogInfantry/claude-skill-management-consultant-B1) - Claude skill & plugin: turn Claude (or any LLM) into an MBB-grade management consultant. Case-interview coaching, strategy frameworks, market sizing, board-ready problem-solving. 129 reference modules
@@ -980,7 +984,7 @@
 - [hebbs-ai/boringos](https://github.com/hebbs-ai/boringos) - BoringOS is the open-source operating system for AI agents - it ships with a shell portal plus installable modules, powered by agentic CLIs.
 - [jpicklyk/task-orchestrator](https://github.com/jpicklyk/task-orchestrator) - Server-enforced workflow discipline for AI agents. An MCP server providing persistent work items, dependency graphs, quality gates, and actor attribution. Schemas define what agents must produce — the
 - [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,750+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,877+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [ariaxhan/kernel-claude](https://github.com/ariaxhan/kernel-claude) - Claude Code learns from itself. Persistent memory, multi-agent orchestration, and a scientific experiment engine that proves which rules actually work.
 - [swarmclawai/andrej-karpathy-skills](https://github.com/swarmclawai/andrej-karpathy-skills) - Karpathy-inspired coding-agent guidelines packaged for Claude Code, Codex, Cursor, Gemini, OpenCode, Aider, Copilot, OpenClaw, and any AGENTS.md or Agent Skills-compatible agent.
 - [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) - Claude Code learns from your corrections: self-correcting memory that compounds over 50+ sessions. Context engineering, parallel worktrees, agent teams, and 17 battle-tested skills.
@@ -1086,7 +1090,7 @@
 ## fastapi 
 
 - [ashishpatel26/Enterprise-Agent-Harness-Project-Template](https://github.com/ashishpatel26/Enterprise-Agent-Harness-Project-Template) - Production-grade template for AI agent harnesses: ReAct loop, sandboxed tools, policy & human approval, memory, multi-agent, observability, evals. Agent = Model + Harness.
-- [Anil-matcha/open-spaces](https://github.com/Anil-matcha/open-spaces) - Free, open-source alternative to ChatGPT Spaces: a self-hostable AI workspace for shared pages and conversations.
+- [Anil-matcha/open-genjutsu](https://github.com/Anil-matcha/open-genjutsu) - Local-first AI video recasting with draft review, explicit HD approval, and source-audio restoration.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [Kohei-Wada/taskdog](https://github.com/Kohei-Wada/taskdog) - Terminal task manager with intelligent schedule optimization.Keyboard-only. No dragging, no micromanagement.
 
@@ -1136,6 +1140,7 @@
 
 ## generative-ai 
 
+- [Anil-matcha/open-genjutsu](https://github.com/Anil-matcha/open-genjutsu) - Local-first AI video recasting with draft review, explicit HD approval, and source-audio restoration.
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
@@ -1508,7 +1513,7 @@
 - [Kohei-Wada/taskdog](https://github.com/Kohei-Wada/taskdog) - Terminal task manager with intelligent schedule optimization.Keyboard-only. No dragging, no micromanagement.
 - [jpicklyk/task-orchestrator](https://github.com/jpicklyk/task-orchestrator) - Server-enforced workflow discipline for AI agents. An MCP server providing persistent work items, dependency graphs, quality gates, and actor attribution. Schemas define what agents must produce — the
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,750+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,877+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [ThibautMelen/agentic-ai-systems](https://github.com/ThibautMelen/agentic-ai-systems) - Agentic AI explained with chickens 🐔 every pattern a runnable, CI-checked file.
 - [ramakay/claude-self-reflect](https://github.com/ramakay/claude-self-reflect) - Claude forgets everything. This fixes that. 🔗 www.npmjs.com/package/claude-self-reflect
 - [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Let Claude Code, Codex or Cursor use your real Chrome, logged in as you. One prompt to set up. Open source, MIT.
@@ -1570,7 +1575,6 @@
 
 ## nextjs 
 
-- [Anil-matcha/open-spaces](https://github.com/Anil-matcha/open-spaces) - Free, open-source alternative to ChatGPT Spaces: a self-hostable AI workspace for shared pages and conversations.
 - [swamimalode07/rare-ui](https://github.com/swamimalode07/rare-ui) - A collection of rare, ready-to-use UI components and animations you can actually drop into your next project. Free and open source.
 - [ixartz/SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) - 🚀🎉📚 SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles & Permissions, i18n, Landing Page, DB, Logging, Testing
 - [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
@@ -1635,7 +1639,6 @@
 
 - [croffasia/itsaplan](https://github.com/croffasia/itsaplan) - ⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.
 - [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) - An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
-- [Anil-matcha/open-spaces](https://github.com/Anil-matcha/open-spaces) - Free, open-source alternative to ChatGPT Spaces: a self-hostable AI workspace for shared pages and conversations.
 - [meta/docusaurus](https://github.com/meta/docusaurus) - Easy to maintain open source documentation websites.
 - [dqev/reicon](https://github.com/dqev/reicon) - Reicon - Open-Source Icon Library for Designers & Developers
 - [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
@@ -1912,7 +1915,6 @@
 
 ## postgresql 
 
-- [Anil-matcha/open-spaces](https://github.com/Anil-matcha/open-spaces) - Free, open-source alternative to ChatGPT Spaces: a self-hostable AI workspace for shared pages and conversations.
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
@@ -1928,7 +1930,6 @@
 
 ## productivity 
 
-- [Anil-matcha/open-spaces](https://github.com/Anil-matcha/open-spaces) - Free, open-source alternative to ChatGPT Spaces: a self-hostable AI workspace for shared pages and conversations.
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME
 - [cathrynlavery/worklog](https://github.com/cathrynlavery/worklog) - A work journal your coding agents write to. Evidence required.
@@ -1987,6 +1988,7 @@
 - [ashishpatel26/Enterprise-Agent-Harness-Project-Template](https://github.com/ashishpatel26/Enterprise-Agent-Harness-Project-Template) - Production-grade template for AI agent harnesses: ReAct loop, sandboxed tools, policy & human approval, memory, multi-agent, observability, evals. Agent = Model + Harness.
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
+- [Anil-matcha/open-genjutsu](https://github.com/Anil-matcha/open-genjutsu) - Local-first AI video recasting with draft review, explicit HD approval, and source-audio restoration.
 - [brettkromkamp/contextualise](https://github.com/brettkromkamp/contextualise) - Contextualise is an effective tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
 - [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) - AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
@@ -2165,7 +2167,7 @@
 - [croffasia/itsaplan](https://github.com/croffasia/itsaplan) - ⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.
 - [egmalt/house-planner](https://github.com/egmalt/house-planner) - Self-hosted house planner: true-scale 2D floor plan, 3D, satellite map overlay, sewer, electrical, water and underfloor heating with calculations, priced bill of materials. React + PHP, no database. B
 - [PhreshOS/system](https://github.com/PhreshOS/system) - An open-source, self-hosted system for apps built with web technologies.
-- [Anil-matcha/open-spaces](https://github.com/Anil-matcha/open-spaces) - Free, open-source alternative to ChatGPT Spaces: a self-hostable AI workspace for shared pages and conversations.
+- [Anil-matcha/open-genjutsu](https://github.com/Anil-matcha/open-genjutsu) - Local-first AI video recasting with draft review, explicit HD approval, and source-audio restoration.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
