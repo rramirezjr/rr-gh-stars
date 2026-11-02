@@ -122,6 +122,7 @@
 
 ## JavaScript 
 
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an applicat
 - [superbasicstudio/claude-conductor](https://github.com/superbasicstudio/claude-conductor) - Claude Conductor - a simple Claude Code framework
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [huacnlee/gpui-shell-benchs](https://github.com/huacnlee/gpui-shell-benchs) - A collection of gpui-shell applications generated from scratch by AI coding agents.
@@ -278,6 +279,7 @@
 
 ## Python 
 
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [ashishpatel26/best-of-Agent-Harnesses](https://github.com/ashishpatel26/best-of-Agent-Harnesses) - 🏆 Ranked list of 167 AI agent harnesses, plus copy-paste templates (AGENTS.md, safe Claude Code settings, a minimal harness) and step-by-step playbooks. MCP server, llms.txt & JSON. Rescored weekly.
 - [ashishpatel26/Enterprise-Agent-Harness-Project-Template](https://github.com/ashishpatel26/Enterprise-Agent-Harness-Project-Template) - Production-grade template for AI agent harnesses: ReAct loop, sandboxed tools, policy & human approval, memory, multi-agent, observability, evals. Agent = Model + Harness.
 - [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
