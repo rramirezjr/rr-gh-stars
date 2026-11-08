@@ -341,7 +341,7 @@
 - [aiming-lab/AutoHarness](https://github.com/aiming-lab/AutoHarness) - AutoHarness: Automated Harness Engineering for AI Agents
 - [ksimback/looper](https://github.com/ksimback/looper) - Design visual, review-gated agent loops for Claude Code before you run them.
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
-- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
+- [OpenMontageInc/OpenMontage](https://github.com/OpenMontageInc/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [Johnny-zbb/code-quality-evaluator](https://github.com/Johnny-zbb/code-quality-evaluator) - Portable AI skill for evidence-based code quality evaluation, using a five-dimension software engineering rubric to generate scored Markdown/HTML reports with findings, rationale, confidence gaps, and
 - [agno-agi/context](https://github.com/agno-agi/context) - A self-hosted context manager. @context organizes your work into a private CRM and knowledge base and helps you stay on top of things.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
@@ -567,7 +567,7 @@
 - [dream-num/univer](https://github.com/dream-num/univer) - Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [lukstei/slop-grader](https://github.com/lukstei/slop-grader) - Jev-powered, rule-based grader for text files. Runs every rule against every line in parallel. No skimming, no missed lines.
-- [coldteadotai/pr-lens](https://github.com/coldteadotai/pr-lens) - Review code 100x faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull request itself. Use it as a GitHub App, GitHub Action, CLI, or a Skill for your coding
+- [coldteadotai/pr-lens](https://github.com/coldteadotai/pr-lens) - The fastest way to understand code
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A tool to manage versioning and changelogs with a focus on monorepos
 - [azat-io/eslint-plugin-perfectionist](https://github.com/azat-io/eslint-plugin-perfectionist) - ☂️ ESLint plugin for sorting various data such as objects, imports, types, enums, JSX props, etc.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
