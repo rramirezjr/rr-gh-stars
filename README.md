@@ -292,7 +292,7 @@
 - [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill) - ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.
 - [Anil-matcha/open-genjutsu](https://github.com/Anil-matcha/open-genjutsu) - Local-first AI video recasting with draft review, explicit HD approval, and source-audio restoration.
 - [Amal-David/awesome-jev](https://github.com/Amal-David/awesome-jev) - Jev demos, projects, SDKs and skills, with source links and a curated X gallery.
-- [GiovanniPasq/chunky](https://github.com/GiovanniPasq/chunky) - Open-source toolkit for reliable RAG pipelines: convert PDFs to Markdown, clean documents, inspect chunks, compare chunking strategies, and enrich metadata for LLM applications.
+- [GiovanniPasq/chunky](https://github.com/GiovanniPasq/chunky) - A local, open-source visual workspace for RAG document preparation: inspect PDF conversion, refine Markdown, compare chunking strategies, and enrich chunks before indexing.
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [NCOR-Organization/awesome-ontologies](https://github.com/NCOR-Organization/awesome-ontologies) - A curated list of ontologies for semantic interoperability, AI systems, knowledge graphs, the semantic web, and digital twins.
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
