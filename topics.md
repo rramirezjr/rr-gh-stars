@@ -266,7 +266,7 @@
 - [kevinluosl/deepbot](https://github.com/kevinluosl/deepbot) - DeepBot is a system-level AI assistant built for both personal productivity and enterprise workflows — one-click setup, seamless experience, and native Feishu integration.
 - [aden-hive/hive](https://github.com/aden-hive/hive) - Multi-Agent Harness for Production AI
 - [dotnet/skills](https://github.com/dotnet/skills) - Repository for skills to assist AI coding agents with .NET and C#
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,926+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,955+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [ThibautMelen/agentic-ai-systems](https://github.com/ThibautMelen/agentic-ai-systems) - Agentic AI explained with chickens 🐔 every pattern a runnable, CI-checked file.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 - [swarmclawai/andrej-karpathy-skills](https://github.com/swarmclawai/andrej-karpathy-skills) - Karpathy-inspired coding-agent guidelines packaged for Claude Code, Codex, Cursor, Gemini, OpenCode, Aider, Copilot, OpenClaw, and any AGENTS.md or Agent Skills-compatible agent.
@@ -461,7 +461,7 @@
 - [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,926+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,955+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [ariaxhan/kernel-claude](https://github.com/ariaxhan/kernel-claude) - Claude Code learns from itself. Persistent memory, multi-agent orchestration, and a scientific experiment engine that proves which rules actually work.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [ThibautMelen/agentic-ai-systems](https://github.com/ThibautMelen/agentic-ai-systems) - Agentic AI explained with chickens 🐔 every pattern a runnable, CI-checked file.
@@ -759,7 +759,7 @@
 - [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - The Context Layer for unstructured data: typed, versioned datasets over S3, GCS, Azure
 - [jpicklyk/task-orchestrator](https://github.com/jpicklyk/task-orchestrator) - Server-enforced workflow discipline for AI agents. An MCP server providing persistent work items, dependency graphs, quality gates, and actor attribution. Schemas define what agents must produce — the
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,926+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,955+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [ariaxhan/kernel-claude](https://github.com/ariaxhan/kernel-claude) - Claude Code learns from itself. Persistent memory, multi-agent orchestration, and a scientific experiment engine that proves which rules actually work.
 - [ThibautMelen/agentic-ai-systems](https://github.com/ThibautMelen/agentic-ai-systems) - Agentic AI explained with chickens 🐔 every pattern a runnable, CI-checked file.
 - [DogInfantry/claude-skill-management-consultant-B1](https://github.com/DogInfantry/claude-skill-management-consultant-B1) - Claude skill & plugin: turn Claude (or any LLM) into an MBB-grade management consultant. Case-interview coaching, strategy frameworks, market sizing, board-ready problem-solving. 129 reference modules
@@ -1018,7 +1018,7 @@
 - [hebbs-ai/boringos](https://github.com/hebbs-ai/boringos) - BoringOS is the open-source operating system for AI agents - it ships with a shell portal plus installable modules, powered by agentic CLIs.
 - [jpicklyk/task-orchestrator](https://github.com/jpicklyk/task-orchestrator) - Server-enforced workflow discipline for AI agents. An MCP server providing persistent work items, dependency graphs, quality gates, and actor attribution. Schemas define what agents must produce — the
 - [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,926+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,955+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [ariaxhan/kernel-claude](https://github.com/ariaxhan/kernel-claude) - Claude Code learns from itself. Persistent memory, multi-agent orchestration, and a scientific experiment engine that proves which rules actually work.
 - [swarmclawai/andrej-karpathy-skills](https://github.com/swarmclawai/andrej-karpathy-skills) - Karpathy-inspired coding-agent guidelines packaged for Claude Code, Codex, Cursor, Gemini, OpenCode, Aider, Copilot, OpenClaw, and any AGENTS.md or Agent Skills-compatible agent.
 - [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) - Claude Code learns from your corrections: self-correcting memory that compounds over 50+ sessions. Context engineering, parallel worktrees, agent teams, and 17 battle-tested skills.
@@ -1583,7 +1583,7 @@
 - [Kohei-Wada/taskdog](https://github.com/Kohei-Wada/taskdog) - Terminal task manager with intelligent schedule optimization.Keyboard-only. No dragging, no micromanagement.
 - [jpicklyk/task-orchestrator](https://github.com/jpicklyk/task-orchestrator) - Server-enforced workflow discipline for AI agents. An MCP server providing persistent work items, dependency graphs, quality gates, and actor attribution. Schemas define what agents must produce — the
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,926+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,955+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [ThibautMelen/agentic-ai-systems](https://github.com/ThibautMelen/agentic-ai-systems) - Agentic AI explained with chickens 🐔 every pattern a runnable, CI-checked file.
 - [ramakay/claude-self-reflect](https://github.com/ramakay/claude-self-reflect) - Claude forgets everything. This fixes that. 🔗 www.npmjs.com/package/claude-self-reflect
 - [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Let Claude Code, Codex or Cursor use your real Chrome, logged in as you. One prompt to set up. Open source, MIT.
@@ -1787,6 +1787,7 @@
 
 ## others 
 
+- [Gtamin1/prison-architect-mod](https://github.com/Gtamin1/prison-architect-mod) - 
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
 - [benjitaylor/skills](https://github.com/benjitaylor/skills) - Skills for AI coding agents.
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
@@ -2078,6 +2079,7 @@
 
 ## python 
 
+- [Michael-K-Stein/prison-architect-server](https://github.com/Michael-K-Stein/prison-architect-server) - Local Prison Architect Multi-Player Server
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [ashishpatel26/Enterprise-Agent-Harness-Project-Template](https://github.com/ashishpatel26/Enterprise-Agent-Harness-Project-Template) - Production-grade template for AI agent harnesses: ReAct loop, sandboxed tools, policy & human approval, memory, multi-agent, observability, evals. Agent = Model + Harness.
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks
