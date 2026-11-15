@@ -165,7 +165,7 @@
 - [Piebald-AI/claude-code-themes](https://github.com/Piebald-AI/claude-code-themes) - Community themes for Claude Code. Use tweakcc to apply them.
 - [outsourc-e/hermes-workspace](https://github.com/outsourc-e/hermes-workspace) - Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector.
 - [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) - All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, securit
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OMP, OpenCode, Gemin
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 - [agent-sh/agentsys](https://github.com/agent-sh/agentsys) - AI writes code. This automates everything else · 24 plugins · 49 agents · 44 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.
@@ -461,7 +461,7 @@
 - [exoharness/exo](https://github.com/exoharness/exo) - Exo is an agent + harness architecture that is fully recursive, able to safely edit all aspects of itself at runtime to get better at your tasks.
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to 
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [Ataraxy-Labs/weave](https://github.com/Ataraxy-Labs/weave) - Entity-level git merge driver. Resolves false conflicts git invents when independent agents edit the same file. ~95% reduction vs. line-based merge.
 - [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 28 languages via tree-sitter. Built for coding agents.
@@ -555,7 +555,7 @@
 - [croffasia/itsaplan](https://github.com/croffasia/itsaplan) - ⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.
 - [intellectronica/ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents
 - [egmalt/house-planner](https://github.com/egmalt/house-planner) - Self-hosted house planner: true-scale 2D floor plan, 3D, satellite map overlay, sewer, electrical, water and underfloor heating with calculations, priced bill of materials. React + PHP, no database. B
-- [SandroMaglione/inkline-town](https://github.com/SandroMaglione/inkline-town) - A town simulation in pale isometric line art, implemented with Ritmo ECS and ThreeJs
+- [SandroMaglione/inkline-town](https://github.com/SandroMaglione/inkline-town) - A town simulation in pale isometric line art, implemented with Ritmo ECS and PixiJs 3D
 - [dip/cmdk](https://github.com/dip/cmdk) - Fast, unstyled command menu React component.
 - [PhreshOS/system](https://github.com/PhreshOS/system) - An open-source, self-hosted system for apps built with web technologies.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
