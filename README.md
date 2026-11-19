@@ -638,7 +638,7 @@
 - [walkinglabs/homepage](https://github.com/walkinglabs/homepage) - Welcome to the WalkingLabs homepage repo!
 - [hebbs-ai/boringos](https://github.com/hebbs-ai/boringos) - BoringOS is the open-source operating system for AI agents - it ships with a shell portal plus installable modules, powered by agentic CLIs.
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
-- [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
+- [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to 
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca
 - [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) - Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others. Includes CodeRabbit open-source alternative.
 - [vercel-labs/before-and-after](https://github.com/vercel-labs/before-and-after) - 
