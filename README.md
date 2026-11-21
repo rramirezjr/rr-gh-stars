@@ -117,6 +117,7 @@
 ## Java 
 
 - [Baidu-AIP/speech-demo](https://github.com/Baidu-AIP/speech-demo) - 语音api示例
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 
@@ -205,6 +206,7 @@
 
 ## Others 
 
+- [joelparkerhenderson/oblique-strategies](https://github.com/joelparkerhenderson/oblique-strategies) - Oblique Strategies: ideas for creative lateral thinking
 - [index-how/vocabulary](https://github.com/index-how/vocabulary) - index.how/to/articulate
 - [wolfmcnally/awesome-AI-driven-development](https://github.com/wolfmcnally/awesome-AI-driven-development) - Awesome list of AI-Driven Development.
 - [shannonbay/setup-structure-index](https://github.com/shannonbay/setup-structure-index) - A claude skill to set up a lightweight system for maintaining a living structural index of your codebase as yaml files.  Claude reads these before exploring code (saving exploration rounds) and update
@@ -516,7 +518,7 @@
 - [elkimek/honcho-self-hosted](https://github.com/elkimek/honcho-self-hosted) - Self-host Honcho memory layer for Hermes Agent — OpenRouter + Venice, no code changes
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
-- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas.
 - [npryce/adr-tools](https://github.com/npryce/adr-tools) - Command-line tools for working with Architecture Decision Records
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [Astro-Han/claude-pace](https://github.com/Astro-Han/claude-pace) - Claude Code statusline and rate limit tracker with pace-aware quota monitoring. Pure Bash + jq, single file.
@@ -584,7 +586,7 @@
 - [zerostaticthemes/square-ui](https://github.com/zerostaticthemes/square-ui) - Collection of beautifully crafted open-source layouts UI built with shadcn/ui.
 - [swamimalode07/rare-ui](https://github.com/swamimalode07/rare-ui) - A collection of rare, ready-to-use UI components and animations you can actually drop into your next project. Free and open source.
 - [shadcn-labs/pdfcn](https://github.com/shadcn-labs/pdfcn) - Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup.
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.
 - [SpillwaveSolutions/project-capsule](https://github.com/SpillwaveSolutions/project-capsule) - Pack a named slice of a repo into one markdown or YAML file. Drop it into a Claude / OpenAI / Grok Project, NotebookLM, or a chat window. Harvest or generate examples from a book, article, or tutorial
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [shift-labs-ai/napkin](https://github.com/shift-labs-ai/napkin) - 🧻 Knowledge system for agents. Local-first, file-based, progressively disclosed.
@@ -630,7 +632,6 @@
 - [mex-memory/mex](https://github.com/mex-memory/mex) - Team memory for engineers and their AI agents. Lives in your repo. Shared through Git.
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [ArgentAIOS/argentos-core](https://github.com/ArgentAIOS/argentos-core) - Your own AI operating system. Self-hosted. Self-improving. One continuous, truthful, self-directed mind.
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
 - [BryanCE/wikit](https://github.com/BryanCE/wikit) - the open source WikiJs TUI and CLI tool
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
